@@ -13,7 +13,7 @@ class QRCodeConfig(PluginConfig):
     default_settings = {
         'with_text': True,
         'text_fields': ['name', 'serial'],
-        'font': 'TahomaBold',
+        'font': 'SourceHanSansSC',
         'custom_text': None,
         'text_location': 'right',
         'qr_version': 1,
