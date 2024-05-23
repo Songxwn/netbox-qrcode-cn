@@ -4,9 +4,16 @@
 
 This plugin depends on [qrcode](https://github.com/lincolnloop/python-qrcode) and [Pillow](https://github.com/python-pillow/Pillow) python library
 
+[![Downloads](https://static.pepy.tech/badge/netbox-qrcode)](https://pepy.tech/project/netbox-qrcode)
+[![Downloads](https://static.pepy.tech/badge/netbox-qrcode/month)](https://pepy.tech/project/netbox-qrcode)
+[![Downloads](https://static.pepy.tech/badge/netbox-qrcode/week)](https://pepy.tech/project/netbox-qrcode)
+
 ## Compatibility
 
-This plugin in compatible with [NetBox](https://netbox.readthedocs.org/) 2.8 and later.
+| Plugin Version | NetBox Version | Tested on                      |
+| ------------- |:-------------| :-----:|
+| 0.0.11          | >= 3.7.0        | 3.7.x |
+| 0.0.12          | >= 4.0.0        | v4.0.2                   |
 
 ## Installation
 
